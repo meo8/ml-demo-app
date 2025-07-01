@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>meo.lam@snc</sys_created_by>
+        <sys_created_on>2025-07-01 18:40:02</sys_created_on>
+        <sys_id>0d9a18e43beae21043e4c88e53e45aef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_ml_demo_app_first_table.x_snc_ml_demo_app.first_table_user</sys_name>
+        <sys_package display_value="ML Demo App " source="x_snc_ml_demo_app">08689c243beae21043e4c88e53e45aa5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ML Demo App ">08689c243beae21043e4c88e53e45aa5</sys_scope>
+        <sys_security_acl display_value="x_snc_ml_demo_app_first_table">059a18e43beae21043e4c88e53e45aec</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0d9a18e43beae21043e4c88e53e45aef</sys_update_name>
+        <sys_updated_by>meo.lam@snc</sys_updated_by>
+        <sys_updated_on>2025-07-01 18:40:02</sys_updated_on>
+        <sys_user_role display_value="x_snc_ml_demo_app.first_table_user" name="x_snc_ml_demo_app.first_table_user">3c9a94e43beae21043e4c88e53e45ad7</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

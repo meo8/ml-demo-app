@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="First Table" language="en" table="x_snc_ml_demo_app_first_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>First Table</label>
+            <language>en</language>
+            <name>x_snc_ml_demo_app_first_table</name>
+            <plural>First Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>meo.lam@snc</sys_created_by>
+            <sys_created_on>2025-07-01 18:40:03</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>First Table</sys_name>
+            <sys_package display_value="ML Demo App " source="x_snc_ml_demo_app">08689c243beae21043e4c88e53e45aa5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ML Demo App ">08689c243beae21043e4c88e53e45aa5</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_ml_demo_app_first_table__en</sys_update_name>
+            <sys_updated_by>meo.lam@snc</sys_updated_by>
+            <sys_updated_on>2025-07-01 18:40:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
