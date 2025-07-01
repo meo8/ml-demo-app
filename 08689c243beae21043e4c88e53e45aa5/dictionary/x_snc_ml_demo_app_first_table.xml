@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6d7a94e43beae21043e4c88e53e45a80" label="First Table" max_length="40" name="x_snc_ml_demo_app_first_table" type="collection"/>
+</database>
