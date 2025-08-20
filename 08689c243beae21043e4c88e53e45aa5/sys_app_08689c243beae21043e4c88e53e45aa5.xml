@@ -24,7 +24,7 @@
         <scoped_administration>false</scoped_administration>
         <short_description>For Git practice</short_description>
         <source>x_snc_ml_demo_app</source>
-        <store_correlation_id>REPOAPP0000005467</store_correlation_id>
+        <store_correlation_id>REPOAPP0000005468</store_correlation_id>
         <store_url/>
         <subscription_entitlement/>
         <sys_class_name>sys_app</sys_class_name>
@@ -32,9 +32,9 @@
         <sys_created_by>meo.lam@snc</sys_created_by>
         <sys_created_on>2025-07-01 18:30:25</sys_created_on>
         <sys_id>08689c243beae21043e4c88e53e45aa5</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>13</sys_mod_count>
         <sys_updated_by>meo.lam@snc</sys_updated_by>
-        <sys_updated_on>2025-08-20 21:55:48</sys_updated_on>
+        <sys_updated_on>2025-08-20 21:55:58</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
